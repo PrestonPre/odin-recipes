@@ -1,1 +1,2 @@
 # odin-recipes
+This project will allow me to practice basic HTML formatting and linking to produce a simple recipe website- if I can spell recipe correctly- a task which, up to this point, has been slightly difficult. 
